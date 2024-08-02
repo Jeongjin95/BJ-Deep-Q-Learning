@@ -1,3 +1,3 @@
 # BJ-Deep-Q-Learning
 
-Will upload the code after revision
+Will provide the full code after making the revisions.
